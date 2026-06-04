@@ -1,0 +1,6 @@
+{
+  "name": "debug-review-audit",
+  "description": "Debug / Review / Audit",
+  "version": "1.0.0",
+  "skills": "./skills/"
+}

@@ -6,9 +6,14 @@
   "description": "Spegeli's SkillForge marketplace",
   "plugins": [
     {
-      "name": "engeneering",
-      "source": "./plugins/engeneering",
-      "description": "A Collection of Skills for Engeneering"
+      "name": "debug-review-audit",
+      "source": "./plugins/debug-review-audit",
+      "description": "Debug / Review / Audit"
+    },
+    {
+      "name": "frontend",
+      "source": "./plugins/frontend",
+      "description": "Frontend"
     }
   ]
 }
