@@ -7,6 +7,11 @@
       "name": "caveman",
       "description": "caveman",
       "path": "./skills/caveman"
+    },
+    {
+      "name": "code-reviewer",
+      "description": "code-reviewer",
+      "path": "./skills/code-reviewer"
     }
   ]
 }
