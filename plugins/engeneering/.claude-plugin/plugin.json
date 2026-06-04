@@ -2,5 +2,11 @@
   "name": "engeneering",
   "description": "A Collection of Skills for Engeneering",
   "version": "1.0.0",
-  "skills": "./skills/"
+  "skills": [
+    {
+      "name": "caveman",
+      "description": "caveman",
+      "path": "./skills/caveman"
+    }
+  ]
 }
