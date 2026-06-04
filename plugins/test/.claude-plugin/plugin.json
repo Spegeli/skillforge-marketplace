@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "description": "Test",
+  "version": "1.0.0",
+  "skills": "./skills/"
+}

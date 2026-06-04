@@ -1,0 +1,14 @@
+{
+  "name": "skillforge-spegeli",
+  "owner": {
+    "name": "spegeli"
+  },
+  "description": "Spegeli's SkillForge marketplace",
+  "plugins": [
+    {
+      "name": "test",
+      "source": "./plugins/test",
+      "description": "Test"
+    }
+  ]
+}
