@@ -6,8 +6,8 @@
   "description": "Spegeli's SkillForge marketplace",
   "plugins": [
     {
-      "name": "test",
-      "source": "./plugins/test",
+      "name": "engeneering",
+      "source": "./plugins/engeneering",
       "description": "A Collection of Skills for Engeneering"
     }
   ]
