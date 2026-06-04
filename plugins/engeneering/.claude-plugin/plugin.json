@@ -2,16 +2,5 @@
   "name": "engeneering",
   "description": "A Collection of Skills for Engeneering",
   "version": "1.0.0",
-  "skills": [
-    {
-      "name": "caveman",
-      "description": "caveman",
-      "path": "./skills/caveman"
-    },
-    {
-      "name": "code-reviewer",
-      "description": "code-reviewer",
-      "path": "./skills/code-reviewer"
-    }
-  ]
+  "skills": "./skills/"
 }
