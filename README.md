@@ -1,6 +1,6 @@
 # Spegeli's SkillForge Marketplace
 
-> This repository is managed by [SkillForge](https://skillforge.app) — do not edit by hand.
+> This repository is managed by [SkillForge](http://localhost:3000) — do not edit by hand.
 
 ## Add in Claude Code
 
@@ -38,4 +38,4 @@
 
 ---
 
-_Last published: 2026-06-05 · [SkillForge](https://skillforge.app)_
+_Last published: 2026-06-05 · [SkillForge](http://localhost:3000)_
