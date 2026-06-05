@@ -6,14 +6,9 @@
   "description": "Spegeli's SkillForge marketplace",
   "plugins": [
     {
-      "name": "debug-review-audit",
-      "source": "./plugins/debug-review-audit",
-      "description": "Debug / Review / Audit"
-    },
-    {
-      "name": "frontend",
-      "source": "./plugins/frontend",
-      "description": "Frontend"
+      "name": "test",
+      "source": "./plugins/test",
+      "description": "Test"
     }
   ]
 }
