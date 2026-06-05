@@ -1,6 +1,6 @@
 {
   "name": "debug-review-audit",
   "description": "Debug / Review / Audit",
-  "version": "2026.06.04.2010",
+  "version": "2026.06.05.0952",
   "skills": "./skills/"
 }
