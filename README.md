@@ -8,7 +8,7 @@
 /plugin marketplace add Spegeli/skillforge-marketplace
 ```
 
-## Collections (1)
+## Collections (2)
 
 ### Audit / Review — 12 Skills
 _A Collection of Skills for Audit / Review Websites_
@@ -30,6 +30,21 @@ _A Collection of Skills for Audit / Review Websites_
 | `seo-audit` | When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO audit," "technical SEO," "why am I not ranking," "SEO issues," "on-page SEO," "meta tags review," or "SEO health check." For building pages at scale to target keywords, see programmatic-seo. For adding structured data, see schema-markup. |
 | `site-architecture` | When the user wants to audit, redesign, or plan their website's structure, URL hierarchy, navigation design, or internal linking strategy. Use when the user mentions 'site architecture,' 'URL structure,' 'internal links,' 'site navigation,' 'breadcrumbs,' 'topic clusters,' 'hub pages,' 'orphan pages,' 'silo structure,' 'information architecture,' or 'website reorganization.' Also use when someone has SEO problems and the root cause is structural (not content or schema). NOT for content strategy decisions about what to write (use content-strategy) or for schema markup (use schema-markup). |
 | `web-design-guidelines` | Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices". |
+
+</details>
+
+---
+
+### Test — 2 Skills
+_Test Collection_
+
+<details>
+<summary>Show 2 skills</summary>
+
+| Skill | Description |
+|---|---|
+| `config-gc` | Garbage collection for your Claude Code configuration. Periodically scans ~/.claude (skills, memory, hooks, permissions, MCP servers, caches) for redundant, stale, orphaned, or low-value items, then walks the user through a confirm-each-deletion cleanup. Use when the user says "clean up my config", "config GC", "too many skills", "audit my setup", "my .claude is bloated", or asks for a periodic config review. |
+| `enrichment-agent` | Pulls detailed profile, company, and activity data for qualified leads. Enriches prospects with recent news, funding data, content interests, and mutual overlap. |
 
 </details>
 
