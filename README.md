@@ -1,6 +1,6 @@
 # Spegeli's SkillForge Marketplace
 
-![Collections](https://img.shields.io/badge/Collections-2-blue) ![Skills](https://img.shields.io/badge/Skills-14-22c55e) ![Agents](https://img.shields.io/badge/Agents-1-a855f7)
+![Collections](https://img.shields.io/badge/Collections-2-blue) ![Skills](https://img.shields.io/badge/Skills-13-22c55e) ![Agents](https://img.shields.io/badge/Agents-1-a855f7)
 
 > This repository is managed by [SkillForge](https://skillforge-dev.nerd-cloud.xyz) — do not edit by hand.
 
@@ -26,7 +26,7 @@ In the app: **Customize → + Create plugin → Add marketplace → "Add from a 
 
 ## 📦 Collections (2)
 
-### [Audit / Review](https://github.com/Spegeli/skillforge-marketplace/tree/main/plugins/audit-review) — 13 Skills
+### [Audit / Review](https://github.com/Spegeli/skillforge-marketplace/tree/main/plugins/audit-review) — 12 Skills
 
 _A Collection of Skills for Audit / Review Websites_
 
@@ -35,14 +35,13 @@ _A Collection of Skills for Audit / Review Websites_
 - **Desktop App:** Go to **Settings → Extensions**, search for `skillforge-spegeli` and install **audit-review**.
 
 <details>
-<summary>Show 13 skills</summary>
+<summary>Show 12 skills</summary>
 
 | Skill | Description |
 |---|---|
 | [`a11y-audit`](https://github.com/Spegeli/skillforge-marketplace/tree/main/plugins/audit-review/skills/a11y-audit) | Accessibility audit skill for scanning, fixing, and verifying WCAG 2.2 Level A and AA compliance across React, Next.js, Vue, Angular, Svelte, and plain HTML codebases. Use when auditing accessibility, fixing a11y violations, checking color contrast, generating compliance reports, or integrating accessibility checks into CI/CD pipelines. |
 | [`accessibility`](https://github.com/Spegeli/skillforge-marketplace/tree/main/plugins/audit-review/skills/accessibility) | Design, implement, and audit inclusive digital products using WCAG 2.2 Level AA standards. Use this skill to generate semantic ARIA for Web and accessibility traits for Web and Native platforms (iOS/Android). |
 | [`api-design-reviewer`](https://github.com/Spegeli/skillforge-marketplace/tree/main/plugins/audit-review/skills/api-design-reviewer) | Comprehensive REST API design review with automated linting, breaking-change detection, and design scorecards. Catches inconsistent conventions, missing versioning, and design smells before APIs ship. Use when reviewing a PR that adds or changes API endpoints, auditing an existing API for v2 migration, or establishing API standards for a team. |
-| [`caveman`](https://github.com/Spegeli/skillforge-marketplace/tree/main/plugins/audit-review/skills/caveman) | Ultra-compressed communication mode. Cuts token usage ~75% by dropping filler, articles, and pleasantries while keeping full technical accuracy. Use when user says "caveman mode", "talk like caveman", "use caveman", "less tokens", "be brief", or invokes /caveman. |
 | [`code-reviewer`](https://github.com/Spegeli/skillforge-marketplace/tree/main/plugins/audit-review/skills/code-reviewer) | Code review automation for TypeScript, JavaScript, Python, Go, Swift, Kotlin, C\#, .NET, Java, C, C++, Rust, Ruby, PHP, and Dart/Flutter. Analyzes PRs for complexity and risk, checks code quality for SOLID violations and code smells, generates review reports. Use when reviewing pull requests, analyzing code quality, identifying issues, generating review checklists. |
 | [`design-audit`](https://github.com/Spegeli/skillforge-marketplace/tree/main/plugins/audit-review/skills/design-audit) | Premium UI/UX design audit and refinement skill. Conducts systematic visual audits of existing apps and produces phased, implementation-ready design plans. Use this skill whenever the user asks to audit a UI, improve an app's visual design, make an interface feel more polished or premium, review design consistency, fix visual hierarchy, or refine spacing/typography/color. Also trigger when the user says "design review", "make it look better", "UI polish", "visual refinement", "design pass", "audit the design", or references making an app feel more professional. This skill is purely visual — it does not touch functionality, logic, or features. It elevates what exists. |
 | [`design-system`](https://github.com/Spegeli/skillforge-marketplace/tree/main/plugins/audit-review/skills/design-system) | Use this skill to generate or audit design systems, check visual consistency, and review PRs that touch styling. |
