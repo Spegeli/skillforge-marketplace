@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "description": "Test Collection for Skills + Agents",
-  "version": "2026.06.11.1810",
+  "description": "Test",
+  "version": "2026.06.11.1911",
   "skills": "./skills/"
 }

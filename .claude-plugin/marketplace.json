@@ -6,14 +6,14 @@
   "description": "Spegeli's SkillForge marketplace",
   "plugins": [
     {
-      "name": "review-audit",
-      "source": "./plugins/review-audit",
+      "name": "audit-review",
+      "source": "./plugins/audit-review",
       "description": "A Collection of Skills for Audit / Review Websites"
     },
     {
       "name": "test",
       "source": "./plugins/test",
-      "description": "Test Collection for Skills + Agents"
+      "description": "Test"
     }
   ]
 }
