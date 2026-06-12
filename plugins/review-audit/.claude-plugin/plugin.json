@@ -1,6 +1,6 @@
 {
   "name": "review-audit",
   "description": "A Collection of Skills for Audit / Review Websites",
-  "version": "2026.06.12.1348",
+  "version": "2026.06.12.1351",
   "skills": "./skills/"
 }
